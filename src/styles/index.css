@@ -1,0 +1,49 @@
+/* 初始化样式 */
+* {
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+li{
+    list-style: none;
+}
+html{
+    font-size: 62.5%;
+}
+.clearfix:after {
+    content: '.';
+    display: block;
+    height: 0;
+    clear:both;
+}
+/* 自定义样式 */
+.wrap {
+    /* max-width: 1000px; */
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+.wrap ul {
+    width: 100000px;
+}
+.wrap ul li {
+    float: left;
+}
+.wrap ul li img{
+    width: 100%;
+    display: block;
+}
+.wrap span{
+    display: block;
+    position: absolute;
+    top: 45%;
+    cursor: pointer;
+}
+.wrap .left{
+    left: 1rem;
+}
+.wrap .right{
+    right: 1rem;
+}

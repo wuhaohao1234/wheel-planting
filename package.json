@@ -1,0 +1,23 @@
+{
+  "name": "wheel-planting",
+  "version": "1.0.0",
+  "description": "响应式轮播图插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/wheel-planting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/wheel-planting/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/wheel-planting#readme",
+  "devDependencies": {
+    "jquery": "^3.4.1"
+  }
+}
